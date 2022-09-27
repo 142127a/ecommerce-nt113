@@ -11,7 +11,7 @@ Welcome to my project in subject NT113 :3
 
 ### 1. Clone repo
 ```
-$ git clone 
+$ git clone https://github.com/142127a/ecommerce-nt113.git
 ```
 
 ### 2. Setup MongoDB
