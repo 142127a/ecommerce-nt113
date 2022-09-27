@@ -4,7 +4,7 @@ Welcome to my project in subject NT113 :3
 
 ## Demo Website
 
-- 👉 Heroku : 
+- 👉 Heroku : https://ecommerce-nt113.herokuapp.com/
 
 
 ## Run Locally
